@@ -6,11 +6,6 @@ Mobile apps are everywhere. They are easy to create and can be lucrative.Because
 I will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories.
 I'll look for insights in the data to devise strategies to drive growth and retention and finally I will make a dashboard to view this insights.
 
-# The dashboard:
-
-![](images/ApssDashboard.PNG)
-![](images/Apps%20dashboard.PNG)
-
 # Project Tasks:
 
 1- Import Libraries
@@ -36,3 +31,8 @@ I'll look for insights in the data to devise strategies to drive growth and rete
 11- Create App Layout
 
 12- Run the Server
+
+# The dashboard:
+
+![](images/ApssDashboard.PNG)
+![](images/Apps%20dashboard.PNG)
